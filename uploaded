@@ -1,0 +1,2 @@
+wget --save-cookies=cookie.txt --post-data="id=<your id>&pw=<your password>" -O /dev/null http://uploaded.net/io/login
+ wget --content-disposition --load-cookies=cookie.txt -i dl.txt
